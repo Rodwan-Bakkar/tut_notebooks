@@ -1,0 +1,21 @@
+<Country>
+    <Name>Syria</Name>
+    <Cities>
+        <City Capital='False'>
+            <Name>Homs</Name>
+            <Location>Center</Location>
+        </City>
+        <City Capital='True'>
+            <Name>Damascus</Name>
+            <Location>South</Location>
+        </City>
+        <City Capital='False'>
+            <Name>Aleppo</Name>
+            <Location>North</Location>
+        </City>
+        <City Capital='False'>
+            <Name>Daraa</Name>
+            <Location>South</Location>
+        </City>
+    </Cities>
+</Country>
